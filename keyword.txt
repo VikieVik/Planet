@@ -1,0 +1,4 @@
+Planet    KEYWORD1
+joinOTAA  KEYWORD2
+joinABP   KEYWORD2
+sendData  KEYWORD2
